@@ -13,7 +13,7 @@ const styles = {
 const App = () => (
   <div css={styles.container({ hasBackground: true })}>
     <div tw="flex flex-col justify-center h-full gap-y-5">
-      <NumberButton variant="primary" />
+      <NumberButton />
     </div>
   </div>
 )
