@@ -13,7 +13,7 @@ yarn install
 then:
 
 ```
-yarn dev
+yarn start
 ```
 
 ---
