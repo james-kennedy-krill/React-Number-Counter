@@ -2,6 +2,20 @@
 
 A sandbox app by James Krill to experiment with a react number counter animation.
 
+## Getting Started
+
+Clone this repo and run:
+
+```
+yarn install
+```
+
+then:
+
+```
+yarn dev
+```
+
 ---
 
 ## Example Application Getting Started Documentation
